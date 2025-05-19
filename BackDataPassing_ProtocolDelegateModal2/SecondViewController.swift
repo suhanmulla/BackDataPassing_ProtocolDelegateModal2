@@ -21,7 +21,7 @@ class SecondViewController: UIViewController {
     
     @IBOutlet weak var addressTextField: UITextField!
     
-    var delegate : moveDataToBack!          // 2nd Step --> Create a delegate ttvariable
+    var delegate : moveDataToBack!          // 2nd Step --> Create a delegate variable
     
     override func viewDidLoad() {
         super.viewDidLoad()
